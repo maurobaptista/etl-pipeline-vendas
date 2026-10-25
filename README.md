@@ -2,8 +2,6 @@
 
 > **Nota de Projeto:** O foco principal deste repositório não é o processamento de grandes volumes de dados (Big Data), mas sim a **construção de uma Arquitetura de Dados moderna, escalável e resiliente**. Embora o volume de dados atual seja de uma empresa em fase inicial (early-stage), a infraestrutura foi totalmente desenhada com padrões de engenharia sénior, suportando orquestração automatizada, CI/CD e rigorosos testes de qualidade de dados.
 
-![Arquitetura do Pipeline](link-para-a-tua-imagem-excalidraw.jpg)
-*(Substitui o link acima pelo caminho da imagem do teu diagrama na pasta do projeto)*
 
 ## 1. Visão Geral
 Este projeto é uma **Prova de Conceito (PoC)** que implementa um pipeline de dados automatizado de ponta a ponta. O fluxo extrai dados de fontes heterogéneas, unifica-os numa base operacional e transforma-os utilizando processamento distribuído, culminando numa camada analítica (Lakehouse) pronta para consumo em relatórios de Business Intelligence.
