@@ -1,0 +1,11 @@
+id_pedido,cliente,pais,valor_total,status_entrega,data_pedido
+1001,João Silva,Angola,150.50,Entregue,2023-10-15
+1002,Maria Costa,Portugal,89.90,Entregue,2023-10-16
+1003,Carlos Dias,Angola,45.00,Entregue,2023-10-18
+1004,Ana Paula,Brasil,210.00,Cancelado,2023-10-19
+1005,Pedro Ramos,Portugal,120.30,Entregue,2023-10-25
+1006,Helena Cruz,Angola,35.20,Entregue,2023-11-01
+1007,Rui Santos,Portugal,95.00,Entregue,2023-11-02
+1008,Teresa Lima,Brasil,310.40,Entregue,2023-11-05
+1009,Mário Nunes,Brasil,55.00,Entregue,2023-11-10
+1010,Luís Gomes,Angola,18.00,Em Trânsito,2023-11-12
