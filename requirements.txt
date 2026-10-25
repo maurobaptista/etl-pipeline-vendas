@@ -16,3 +16,4 @@ SQLAlchemy==2.1.6
 typing_extensions==4.16.0
 tzdata==2026.5
 urllib3==2.8.0
+azure-storage-blob
